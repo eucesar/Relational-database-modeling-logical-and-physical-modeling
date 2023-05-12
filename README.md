@@ -11,10 +11,10 @@
 <br>
 
 > Physical Modeling :
-<img src="./2° Curso//resultado.jpg" alt="resultado" width="80%">
+<img src="./2° Curso/modelagem fisica/modelagem-fisica.jpg" alt="resultado" width="80%">
 
 > Logic Modeling :
-<img src=".//modelagem-fisica.jpg" alt="resultado" width="80%">
+<img src="./2° Curso/modelagem fisica/modelagem-fisica.jpg" alt="resultado" width="80%">
 
 ## Download
 
